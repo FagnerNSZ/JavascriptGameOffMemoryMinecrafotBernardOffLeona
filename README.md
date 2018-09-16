@@ -5,3 +5,4 @@ Em vez disso, traduzir Esse jogo foi desenvolvimdo pro meu sbrinho e minha filha
 This game was developed for my nephew and my daughter to learn the mathematical fundamentals, to exercise their knowledge by approaching games as a means of mathematical practice
 
 #One thing I want to leave to my loved ones
+One thing I want to leave to my loved ones Lena and Bernardo
